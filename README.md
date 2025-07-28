@@ -1,26 +1,18 @@
-# Construction Site – Full-Stack Management System
+# RealEstate Connect – Full-Stack Property Marketplace
 
-## Overview
-
-
-Construction Site is a web-based management system built to streamline day-to-day operations on construction sites. It supports role-based user access, allowing admins and workers to interact through features like project tracking, cost estimation, and feedback submission. With a responsive frontend using Next.js and a secure backend powered by Express.js and MongoDB, the platform offers a scalable and organized solution for managing construction workflows efficiently.
-
+A modern web application for listing, buying, and renting real estate properties. Users can explore available listings, post properties for sale or rent, and communicate with sellers. The platform supports both renters and property sellers through a clean, responsive interface and secure backend API.
 
 ---
 
 ## Features
 
-- **User Management**  
-  Register, login, and manage users.
-
-- **Feedback System**  
-  Submit and store feedback linked to user accounts.
-
-- **Construction Projects**  
-  Manage ongoing construction projects.
-
-- **Estimations**  
-  Handle cost and resource estimations.
+- **User Authentication:** Register, login, and manage user profiles.
+- **Property Listings:** View properties available for sale or rent with images, descriptions, and pricing.
+- **Post a Property:** Registered users can list new properties for sale or rent.
+- **Search & Filters:** Filter listings by location, type (rent/sale), price, and category.
+- **Favorites & Saved Listings:** Bookmark properties for future reference.
+- **Contact Seller:** Send inquiries directly to the property owner or agent.
+- **Admin Module:** Admins can manage users and listings.
 
 ---
 
@@ -28,20 +20,31 @@ Construction Site is a web-based management system built to streamline day-to-da
 
 ### Frontend
 
-- Next.js (App Router)
-- React
-- Tailwind CSS
+- **Framework:** Next.js (App Router) with React
+- **Styling:** Tailwind CSS
+- **Routing & Components:** File-based routing, reusable components
 
 ### Backend
 
-- Node.js
-- Express.js
-- MongoDB (Mongoose)
-- dotenv
+- **Runtime:** Node.js
+- **Framework:** Express.js
+- **Database:** MongoDB (Mongoose ODM)
+- **API Design:** RESTful endpoints for authentication, listings, and user actions
+- **Authentication:** JWT-based secure access
+- **Environment Config:** dotenv for environment variable management
+
+---
+
+## Use Cases
+
+- **Property Marketplace:** Connect buyers and sellers in real estate.
+- **Rental Platform:** Help users find rental homes, apartments, and offices.
+- **Listing Dashboard:** Allow users to manage, update, or delete their properties.
+- **Responsive Design:** Accessible across mobile, tablet, and desktop devices.
 
 ---
 
 ## Contact
 
-**Anila Salman**  
-Email: saleemtalha967@gmail.com
+**Anila Salman*  
+Email: aneylasalman85@gmail.com
