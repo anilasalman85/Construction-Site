@@ -2,7 +2,9 @@
 
 ## Overview
 
-Construction Site is a full-stack web application for managing construction site operations. It includes modules for user management, feedback collection, construction project tracking, and cost/resource estimation. The stack uses Next.js for the frontend and Node.js + Express with MongoDB on the backend.
+
+Construction Site is a web-based management system built to streamline day-to-day operations on construction sites. It supports role-based user access, allowing admins and workers to interact through features like project tracking, cost estimation, and feedback submission. With a responsive frontend using Next.js and a secure backend powered by Express.js and MongoDB, the platform offers a scalable and organized solution for managing construction workflows efficiently.
+
 
 ---
 
