@@ -46,5 +46,5 @@ A modern web application for listing, buying, and renting real estate properties
 
 ## Contact
 
-**Anila Salman*  
+**Anila Salman**
 Email: aneylasalman85@gmail.com
