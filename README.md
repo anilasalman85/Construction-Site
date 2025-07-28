@@ -20,7 +20,7 @@ A modern web application for listing, buying, and renting real estate properties
 
 ### Frontend
 
-- **Framework:** Next.js (App Router) with React
+- **Framework:**React + vite
 - **Styling:** Tailwind CSS
 - **Routing & Components:** File-based routing, reusable components
 
