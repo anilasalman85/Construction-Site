@@ -1,4 +1,4 @@
-# RealEstate Connect – Full-Stack Property Marketplace
+# RealEstate Connect 
 
 A modern web application for listing, buying, and renting real estate properties. Users can explore available listings, post properties for sale or rent, and communicate with sellers. The platform supports both renters and property sellers through a clean, responsive interface and secure backend API.
 
